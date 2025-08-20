@@ -28,7 +28,8 @@ The app is designed to provide users with accurate and easy-to-read weather info
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone <your-repo-URL>
+git clone https://github.com/Ayushi7777777/Weather-App.git
+
 
 
 2.Install required libraries:
@@ -36,4 +37,5 @@ pip install -r requirements.txt
 
 3. Run the application:
 streamlit run app.py
+
 
